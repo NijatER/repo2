@@ -1,1 +1,26 @@
-Hello world
+-Proqramlaşdırma nədir?
+
+    * Proqramlaşdırma kompüter proqramlarının yaradılması prosesidir.
+
+    * Proqramlaşdırma, proqramların mənbə kodlarının yazıldığı proqramlaşdırma dillərinin istifadəsinə əsaslanır.
+
+
+           -Software nədir və kompüterdə necə emal olunur?
+
+    * Proqram, kompüterə necə işləməyi izah edən təlimat və məlumatların (əmirlərin)  toplusudur.
+
+    * Kompüter elmləri və proqram mühəndisliyində proqram, proqramlar və məlumatlar da daxil olmaqla kompüter sistemləri tərəfindən işlənən bütün məlumatlardır.
+
+ 
+          -Proqramlaşdırma dillərini hansı xüsusiyyətlərinə görə qruplaşdırarsan?
+
+ 
+    * Proqramlaşdırma dili, müəyyən vəzifələri yerinə yetirmək üçün kompüterə və ya hesablama cihazına təlimatları çatdırmaq üçün nəzərdə tutulmuş lügətdir.
+
+    * Proqramlaşdırma dili bir çox qruplara bölünür: Bu Paradigmalar adlanır,
+   
+    * İmperativ və deklarativ paradigmalar.
+
+    * İmperativ - Procedural və Object-Oriented
+   
+    * Deklarativ - Functional və sayrı...
